@@ -1,8 +1,8 @@
 - 👋 Hi, I’m suhas K S
-- 👀 I’m interested problem solving,mobile application development
+- 👀 I’m interested in problem solving,mobile application development
 - 🌱 I’m currently learning mobile app development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.linkedin.com/in/suhas-k-s181
+- 📫 How to reach me www.linkedin.com/in/suhas181
 
 <!---
 suhasswamy6756/suhasswamy6756 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
