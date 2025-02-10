@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Suhas Swamy</h1>
+<h3 align="center">Mobile & Backend Developer | AI Enthusiast | Tech Explorer</h3>
 
-<!--
-**suhasswamy6756/suhasswamy6756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhasswamy6756&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🎓 Final-year CSE student at **Nitte Meenakshi Institute of Technology**  
+- 🚀 Passionate about **mobile & backend development, AI, and cloud technologies**  
+- 🌱 **Currently exploring AWS and learning Spring Boot**  
+- 💡 Built projects using **Android, Flutter, Django, AWS, and Firebase**  
+- 🏆 **Received a full scholarship** during my undergraduate studies  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Mobile Development:** ![Android](https://img.shields.io/badge/Android-Java-green) ![Flutter](https://img.shields.io/badge/Flutter-Dart-blue)  
+- **Backend Development:** ![Django](https://img.shields.io/badge/Django-Python-green) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Java-brightgreen)  
+- **Cloud & Databases:** ![AWS](https://img.shields.io/badge/AWS-Cloud-orange) ![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow)  
+- **Machine Learning:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-red) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Python-blue)  
+- **Other Skills:** GetX (Flutter), MVVM Architecture, C++, R  
+
+---
+
+## 🚀 Featured Projects  
+
+### 📲 [youChat](https://github.com/suhasswamy6756/youChat)  
+A **Firebase-integrated chat app** that marked my beginning in **Android development with Java**.  
+
+### 🏆 [Roam Ease](https://github.com/suhasswamy6756)  
+A **hostel leave management system** using **Django, Android, and AWS**, implementing JWT authentication.  
+
+### 🔍 Heart Disease Prediction  
+A **machine learning project** from my internship at **Aqmenz APPl**, predicting heart disease rates.  
+
+### 📊 Stock Market Forecasting  
+Developed a **stock market forecasting model using R** with **ARIMA models** for predictions.  
+
+---
+
+## 📅 What I'm Currently Working On  
+
+- **🚀 Exploring AWS** and integrating cloud solutions into projects  
+- **📚 Learning Spring Boot** for scalable backend development  
+- **🤖 Building a Kannada-English translation LLM**  
+- **📲 Developing a WhatsApp messaging service** for guardian approvals in my leave management app  
+- **🎓 Preparing for a Master's in AI & IT in Ireland/Lithuania**  
+
+---
+
+## 📬 Connect With Me  
+
+- 📧 Email: **suhasswamy6756@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/suhas181)   
+- 🌐 [GitHub](https://github.com/suhasswamy6756)  
+
+---
+
+💡 **Fun Fact:** When I'm not coding, you can find me playing **badminton** 🏸   
+
+🚀 **Always learning, always building!** Let's connect and innovate together!  
