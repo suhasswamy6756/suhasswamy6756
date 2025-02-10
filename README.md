@@ -31,7 +31,7 @@
 ### 📲 [youChat](https://github.com/suhasswamy6756/youChat)  
 A **Firebase-integrated chat app** that marked my beginning in **Android development with Java**.  
 
-### 🏆 [Roam Ease](https://github.com/suhasswamy6756)  
+### 🏆 [Roam Ease](https://www.figma.com/design/5T6iKGqbR9jvzPKlEBigOW/Timon---Senior-Booking-App%2C-Map%2C-Travelling%2C--Booking-(Community)?node-id=0-1&p=f&t=ilMvRVJjkPyiWW6F-0)  
 A **hostel leave management system** using **Django, Android, and AWS**, implementing JWT authentication.  
 
 ### 🔍 Heart Disease Prediction  
@@ -46,9 +46,8 @@ Developed a **stock market forecasting model using R** with **ARIMA models** for
 
 - **🚀 Exploring AWS** and integrating cloud solutions into projects  
 - **📚 Learning Spring Boot** for scalable backend development  
-- **🤖 Building a Kannada-English translation LLM**  
-- **📲 Developing a WhatsApp messaging service** for guardian approvals in my leave management app  
-- **🎓 Preparing for a Master's in AI & IT in Ireland/Lithuania**  
+- **🤖 Learning LLM**  
+
 
 ---
 
