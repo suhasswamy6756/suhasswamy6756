@@ -31,7 +31,7 @@
 ### 📲 [youChat](https://github.com/suhasswamy6756/youChat)  
 A **Firebase-integrated chat app** that marked my beginning in **Android development with Java**.  
 
-### 🏆 [Roam Ease](https://www.figma.com/design/5T6iKGqbR9jvzPKlEBigOW/Timon---Senior-Booking-App%2C-Map%2C-Travelling%2C--Booking-(Community)?node-id=0-1&p=f&t=ilMvRVJjkPyiWW6F-0)  
+### 🏆 [Roam Ease](https://www.roamease.live/)  
 A **hostel leave management system** using **Django, Android, and AWS**, implementing JWT authentication.  
 
 ### 🔍 Heart Disease Prediction  
