@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 - **Mobile Development:** ![Android](https://img.shields.io/badge/Android-Java-green) ![Flutter](https://img.shields.io/badge/Flutter-Dart-blue)  
-- **Backend Development:** ![Django](https://img.shields.io/badge/Django-Python-green) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Java-brightgreen)  
+- **Backend Development:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Java-brightgreen)  
 - **Cloud & Databases:** ![AWS](https://img.shields.io/badge/AWS-Cloud-orange) ![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow)  
 - **Machine Learning:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-red) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Python-blue)  
 - **Other Skills:** GetX (Flutter), MVVM Architecture, C++, R  
