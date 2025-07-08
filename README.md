@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suhas Swamy</h1>
 <h3 align="center">Mobile & Backend Developer | AI Enthusiast | Tech Explorer</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhasswamy6756&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
 
 ---
 
