@@ -22,21 +22,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-### 📲 [youChat](https://github.com/suhasswamy6756/youChat)  
-A **Firebase-integrated chat app** built with **Java (Android)**, marking my entry into mobile development.  
-
-### 🏫 [Roam Ease](https://www.roamease.live/)  
-A **hostel leave management system** using **Django, Android, AWS**, and **JWT tokens** for authentication.  
-
-### 🧠 Heart Disease Prediction  
-A **machine learning project** developed during my internship at **Aqmenz APPl**, predicting heart disease rates.  
-
-### 📉 Stock Market Forecasting  
-Developed a **stock market forecasting tool** using **R and ARIMA models** for future predictions.  
-
----
 
 ## 📅 What I'm Currently Working On  
 
